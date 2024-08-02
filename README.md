@@ -1,2 +1,2 @@
 # Currency-Convertor
-This is a sample website which makes use of API to convert the currency.
+This is a website which makes use of API to convert the currency.
